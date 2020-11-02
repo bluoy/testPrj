@@ -1,1 +1,2 @@
 1. init line.
+2. add line after new branch in master.
