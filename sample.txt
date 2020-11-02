@@ -1,2 +1,4 @@
 1. init line.
 2. add line after new branch in master.
+3.add line in v1.0 branch.
+4.add line after create bugfix branch.
